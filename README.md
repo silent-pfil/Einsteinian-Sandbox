@@ -127,7 +127,7 @@ becoming aware of them.
 
 ## The Dedication
 
-*For Eric Weinstein. The map of known physics is not
+*For Dr. Eric Weinstein. The map of known physics is not
 the territory. May this help the next generation see
 where the map ends and the territory continue.*
 
